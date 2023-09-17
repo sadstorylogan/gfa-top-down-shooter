@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23f2ad399942c050ba9c55c02a49b2dc, type: 3}
+  m_Name: Revolver
+  m_EditorClassIdentifier: 
+  _baseDamage: 1
+  _fireRate: 0.5
+  _accuracy: 0.7
+  _recoil: 0.05
+  _recoilFade: 0.1
+  _projectilePrefab: {fileID: 0}
+  _weaponGraphics: {fileID: 3830672594179798548, guid: 78b1bf8b737cf0573819ce6adf9d305e,
+    type: 3}
+  _boneSocketName: RightHandSocket_Pistol
+  _controller: {fileID: 9100000, guid: 202c85de9bba68e45bf996d3cb86000d, type: 2}
+  _icon: {fileID: 21300000, guid: f8c6243c062baebc68ae33095278d05b, type: 3}
