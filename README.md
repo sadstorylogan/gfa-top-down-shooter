@@ -3,8 +3,8 @@ GFA Top-Down Shooter is an action-packed game developed at Game Factory Academy.
 
 
 <p align = "center">
-  <img src="https://github.com/sadstorylogan/GFA-top-down-shooter/assets/44436956/61ca3df4-d819-443f-8754-bf2e3e1a8cd9" width="500">
-  <img src="https://github.com/sadstorylogan/GFA-top-down-shooter/assets/44436956/e884d84f-cee8-4fb4-ae20-167e673bd375" width="500">
+  <img src="https://github.com/sadstorylogan/GFA-top-down-shooter/assets/44436956/61ca3df4-d819-443f-8754-bf2e3e1a8cd9" width="500"> <img src="https://github.com/sadstorylogan/GFA-top-down-shooter/assets/44436956/e884d84f-cee8-4fb4-ae20-167e673bd375" width="500">
+  
 
 
 
