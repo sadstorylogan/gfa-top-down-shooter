@@ -2,9 +2,11 @@
 GFA Top-Down Shooter is an action-packed game developed at Game Factory Academy. In this game, players must survive against hordes of enemies in a top-down perspective. Drawing inspiration from games like Vampire Survivors, players navigate a challenging world filled with relentless foes, various weapons, and powerful boosters to enhance their chances of survival.
 
 
-<p align = "left">
-  <img src="https://github.com/sadstorylogan/GFA-top-down-shooter/assets/44436956/61ca3df4-d819-443f-8754-bf2e3e1a8cd9" width="500"> 
-  <img src="https://github.com/sadstorylogan/GFA-top-down-shooter/assets/44436956/e884d84f-cee8-4fb4-ae20-167e673bd375" width="500">
+
+
+<p align = "center">
+  <img src="https://github.com/sadstorylogan/GFA-top-down-shooter/assets/44436956/61ca3df4-d819-443f-8754-bf2e3e1a8cd9" width="300"> 
+  <img src="https://github.com/sadstorylogan/GFA-top-down-shooter/assets/44436956/e884d84f-cee8-4fb4-ae20-167e673bd375" width="300">
 </p>
 
  
