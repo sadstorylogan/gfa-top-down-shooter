@@ -15,7 +15,7 @@ GFA Top-Down Shooter is an action-packed game developed at Game Factory Academy.
 To play GFA Top-Down Shooter, follow these steps:
 
   - Clone or download this repository to your local machine.
-  - Open the project in Unity (version XX.X or higher).
+  - Open the project in Unity (version 2022.3.5f1).
   - Run the game from the Unity Editor or build it for your desired platform.
 
 # Controls
