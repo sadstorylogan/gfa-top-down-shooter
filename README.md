@@ -1,5 +1,5 @@
 # GFA top-down shooter
-GFA Top-Down Shooter is an action-packed game developed at Game Factory Academy. In this game, players must survive against hordes of enemies in a top-down perspective. Drawing inspiration from games like Vampire Survivors, players navigate a challenging world filled with relentless foes, various weapons, and powerful boosters to enhance their chances of survival.
+GFA Top-Down Shooter is an action-packed game. In this game, players must survive against hordes of enemies in a top-down perspective. Drawing inspiration from games like Vampire Survivors, players navigate a challenging world filled with relentless foes, various weapons, and powerful boosters to enhance their chances of survival.
 
 
 
