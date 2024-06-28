@@ -1,5 +1,5 @@
 # top-down shooter
-Top-Down Shooter is an action-packed game. In this game, players must survive against hordes of enemies in a top-down perspective. Drawing inspiration from games like Vampire Survivors, players navigate a challenging world filled with relentless foes, various weapons, and powerful boosters to enhance their chances of survival.
+This project is an action-packed game. In this game, players must survive against hordes of enemies in a top-down perspective. Drawing inspiration from games like Vampire Survivors, players navigate a challenging world filled with relentless foes, various weapons, and powerful boosters to enhance their chances of survival.
 
 
 
@@ -12,7 +12,7 @@ Top-Down Shooter is an action-packed game. In this game, players must survive ag
  
 # Installation
 
-To play Top-Down Shooter, follow these steps:
+To play the game, follow these steps:
 
   - Clone or download this repository to your local machine.
   - Open the project in Unity (version 2022.3.5f1).
